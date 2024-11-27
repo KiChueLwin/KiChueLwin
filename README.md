@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Developing Applications, Websites and Cloud Computing Technology.<br>🎯 Goals: Be a professional tech developer and cloud architecture.</p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Developing Applications, Websites and Cloud Computing Technology.<br>🎯 Goals: Be a professional full stack developer and cloud architecture.</p>
 
 ###
 
